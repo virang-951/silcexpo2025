@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SILC EXPO 2024</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to SILC EXPO 2024</h1>
+        <p>Join us for an exciting day of science and innovation!</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#competitions">Competitions</a></li>
+            <li><a href="#registration">Registration</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="about">
+        <h2>About SILC EXPO</h2>
+        <p>The SILC EXPO 2024 is a platform for students from grades 6 to 8 to showcase their talents in various science-related competitions. It aims to inspire young minds and promote scientific curiosity.</p>
+    </section>
+    
+    <section id="competitions">
+        <h2>Competitions</h2>
+        <ul>
+            <li><strong>STEM Challenge:</strong> Each school prepares 5 models. Coordinators select the best 2 models for the expo.</li>
+            <li><strong>Best Out of Waste:</strong> On-the-spot competition. 3 students per school create models using waste materials.</li>
+            <li><strong>Chemistry Magic Show:</strong> 5 students per school participate in exciting chemistry demonstrations.</li>
+            <li><strong>Science Elocution:</strong> 1 student per school presents a speech on given topics.</li>
+            <li><strong>Science Art:</strong> 2 students per school draw beautiful art based on provided topics.</li>
+        </ul>
+    </section>
+    
+    <section id="registration">
+        <h2>Registration</h2>
+        <p>To register your school for the SILC EXPO 2024, please fill out the <a href="registration_form.html">registration form</a>.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>For more information, please contact:</p>
+        <p><strong>Virang Parmar</strong></p>
+        <p>Phone: 9714788612</p>
+        <p>Email: viran.parmar@aif.org</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 SILC EXPO. All rights reserved.</p>
+    </footer>
+</body>
+</html>
